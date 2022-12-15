@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguimiento de Activos", "Seguimiento de Activos.csproj", "{088CC98F-5146-4A56-BEA6-AF84DB46A605}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Seguimiento de Activos", "..\Instalador Seguimiento de Activos\Instalador Seguimiento de Activos.vdproj", "{4DEBB98C-C672-49DD-86B9-95AD6F0EDB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088CC98F-5146-4A56-BEA6-AF84DB46A605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088CC98F-5146-4A56-BEA6-AF84DB46A605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088CC98F-5146-4A56-BEA6-AF84DB46A605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088CC98F-5146-4A56-BEA6-AF84DB46A605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEBB98C-C672-49DD-86B9-95AD6F0EDB00}.Debug|Any CPU.ActiveCfg = Debug
+		{4DEBB98C-C672-49DD-86B9-95AD6F0EDB00}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806578DB-25C6-49F9-B9D3-344E8A7BBBC3}
+	EndGlobalSection
+EndGlobal
